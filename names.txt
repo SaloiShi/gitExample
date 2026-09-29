@@ -1,2 +1,2 @@
-boss,NetID,LastName,FIrstName
+boss,lshi236,Shi,Liya
 employee,kctruong,Truong,Kiet
