@@ -1,2 +1,3 @@
+role,NetID,LsatName,FirstName
 boss,lshi236,Shi,Liya
 employee,kctruong,Truong,Kiet
